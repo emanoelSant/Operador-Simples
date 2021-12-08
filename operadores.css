@@ -1,0 +1,36 @@
+#bt{
+    width: 100px;
+    font: italic 11pt times ;
+}
+
+.adi {
+    margin: 0px;
+    width: 100%;
+    height: 100px;
+    background-color: blanchedalmond;
+    text-align: center;
+    }
+
+.sub {
+    width: 100%;
+    height: 100px;
+    background-color: cadetblue;
+    text-align: center;
+    }
+
+.divi {
+    width: 100%;
+    height: 100px;
+    background-color: darkcyan;
+    text-align: center;
+    }
+.multi{
+    width: 100%;
+    height: 100px;
+    background-color:darkgrey;
+    text-align: center;
+    }
+    .desenvolvedor{
+        padding-top:400px;
+        text-align: center;
+    }
